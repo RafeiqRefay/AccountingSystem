@@ -1,0 +1,14 @@
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+*.user
+
+# Node / React
+**/node_modules/
+
+# ناتج بناء Electron (الـ installer ونسخته المكررة)
+**/dist-installer/
+Frontend/East-Gallery/East-Gallery/East-Gallery/backend/
+*.msi
+*.pubxml.user
